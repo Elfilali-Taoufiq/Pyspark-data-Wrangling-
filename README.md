@@ -1,0 +1,1 @@
+This is a simple project using Pyspark to answer some questions about a Bundesliga datasets 
